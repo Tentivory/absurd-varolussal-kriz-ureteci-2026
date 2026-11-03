@@ -22,7 +22,8 @@ krizler = [
     "Gökyüzü mavi. Neden? Neden her şey mavi değil?",
     "Bilgisayar açıldı. Ben de açıldım ama hangimiz daha işlevsel?",
     "Saat 15:00. Hayatın da 15:00'i mi?",
-    "Su içtim. Moleküller mutlu oldu. Ben de mutlu olmalı mıyım?"
+    "Su içtim. Moleküller mutlu oldu. Ben de mutlu olmalı mıyım?",
+    "Bu PR neden açıldı? Merge edilmeli mi yoksa varoluşsal red mi?"
 ]
 
 def dramatik_bekleme(saniye=1.5):
